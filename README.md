@@ -1,5 +1,6 @@
 # Out-of-Bounds-LTD
 A Guided Project Tracking System of 4 collaborators
+
 Goal: 
 Building a distributed information system with heterogeneous clients
 Project Structure
