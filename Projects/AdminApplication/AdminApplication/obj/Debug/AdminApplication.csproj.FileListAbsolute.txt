@@ -1,0 +1,11 @@
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe.config
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.pdb
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.dll
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.Cache
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.exe
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.pdb

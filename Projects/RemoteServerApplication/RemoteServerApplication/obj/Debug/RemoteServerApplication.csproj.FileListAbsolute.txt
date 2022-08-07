@@ -1,0 +1,8 @@
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.pdb
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.dll
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb

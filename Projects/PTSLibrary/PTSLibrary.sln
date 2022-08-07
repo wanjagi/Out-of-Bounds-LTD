@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTSLibrary", "PTSLibrary\PTSLibrary.csproj", "{C29136D1-CBDD-40E1-B3E4-C460CD711DB0}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PTSWebService(1)", "..\..\WebSites\PTSWebService\", "{955DEEC9-DEAF-465A-AA07-34215473DE76}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{c29136d1-cbdd-40e1-b3e4-c460cd711db0}|PTSLibrary.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53668"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\PTSWebService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53668\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53668"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\PTSWebService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53668\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53668"
+		SlnRelativePath = "..\..\WebSites\PTSWebService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CustomerWebSite(1)", "..\..\WebSites\CustomerWebSite\", "{89A9A624-6556-4D22-A2C0-5AD9D54F4F1D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_27507"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\CustomerWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_27507\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_27507"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\CustomerWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_27507\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "27507"
+		SlnRelativePath = "..\..\WebSites\CustomerWebSite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{955DEEC9-DEAF-465A-AA07-34215473DE76} = {955DEEC9-DEAF-465A-AA07-34215473DE76}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29136D1-CBDD-40E1-B3E4-C460CD711DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29136D1-CBDD-40E1-B3E4-C460CD711DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29136D1-CBDD-40E1-B3E4-C460CD711DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29136D1-CBDD-40E1-B3E4-C460CD711DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955DEEC9-DEAF-465A-AA07-34215473DE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955DEEC9-DEAF-465A-AA07-34215473DE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955DEEC9-DEAF-465A-AA07-34215473DE76}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{955DEEC9-DEAF-465A-AA07-34215473DE76}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{89A9A624-6556-4D22-A2C0-5AD9D54F4F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A9A624-6556-4D22-A2C0-5AD9D54F4F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A9A624-6556-4D22-A2C0-5AD9D54F4F1D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A9A624-6556-4D22-A2C0-5AD9D54F4F1D}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

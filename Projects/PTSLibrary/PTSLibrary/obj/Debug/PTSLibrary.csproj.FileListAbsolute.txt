@@ -1,0 +1,7 @@
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.dll.config
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.dll
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\bin\Debug\PTSLibrary.pdb
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.dll
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.pdb
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.csproj.AssemblyReference.cache
+C:\Users\Francis\Documents\Visual Studio 2015\Projects\PTSLibrary\PTSLibrary\obj\Debug\PTSLibrary.csproj.CoreCompileInputs.cache
